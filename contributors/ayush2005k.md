@@ -4,7 +4,8 @@
 Ayush Singh - 23BAI10922
 
 ## GitHub Username
-@ayush2005k(https://github.com/ayush2005k)
+[@ayush2005k](https://github.com/ayush2005k)
+
 
 ## Who is Your Tech Parent?
 I admire open-source developers who build communities and share knowledge
